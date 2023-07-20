@@ -6,10 +6,6 @@ import { useKeenSlider } from 'keen-slider/react'
 import { stripe } from '../lib/stripe'
 import { HomeContainer, Product } from '../styles/pages/home'
 
-import camiseta1 from '../assets/1.png'
-import camiseta2 from '../assets/2.png'
-import camiseta3 from '../assets/3.png'
-
 import 'keen-slider/keen-slider.min.css'
 import Stripe from 'stripe'
 
